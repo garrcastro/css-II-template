@@ -1,0 +1,35 @@
+header{
+    background-color: lightcoral;
+    height: 10vh;
+    position: sticky;
+    top: 0;
+    border: 2px solid black;
+}
+
+main{
+    background-color: lightgreen;
+    height: 300vh;
+
+}
+
+footer{
+    background-color: lightslategrey;
+    height: 10vh;
+    border: 2px solid black;
+}
+
+.contato{
+    background-color: green;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
